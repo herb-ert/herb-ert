@@ -3,7 +3,8 @@
 <h3 align="left">About me:</h3>
 <p align="left">
 I'm an learning developer from Poland. My main focuses are HTML, CSS and Javascript.<br>
-I'm also learing C#. My dream is to make an rpg game called Eternis.
+I'm also learing C#. My dream is to make an rpg game called Eternis - more information<br>
+can be found on <a href="https://github.com/herbusdev/Eternis-website">website</a> or in a <a href="https://github.com/herbusdev/Eternis">game repository</a>.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
