@@ -18,7 +18,8 @@ const herbus = {
                         reading: "https://www.goodreads.com/user/show/158218676-herbus",
                         coding: "https://github.com/herbusdev/"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on learning more Python and C#
+ challenge: "I am doing the #100DaysOfCode challenge focused on learning more Python.",
+ day: "As of day 22.03.2023 I'm starting the challenge. Current day: 0."
 }
 ```
   
