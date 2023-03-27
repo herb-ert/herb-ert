@@ -11,8 +11,8 @@ Amateur <a href="https://www.chess.com/member/imherbus">Chess</a> player <img sr
 ```javascript
 const herbus = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, C#],
-  tools: [Node, Unity],
+  code: [Javascript, HTML, CSS, Python],
+  tools: [Node],
   hobbies: {
                         photography: "https://instagram.com/gadoabauto",
                         reading: "https://www.goodreads.com/user/show/158218676-herbus",
