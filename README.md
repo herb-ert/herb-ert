@@ -8,20 +8,14 @@ Amateur <a href="https://www.chess.com/member/imherbus">Chess</a> player <img sr
 
 <h3><img src="https://i.imgur.com/zrXb3OY.png" width="30"> A little more about me...</h3>
   
-```javascript
-const herbus = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python],
-  tools: [Node],
+```python
+herbus = {
+  pronouns: "he/him",
+  code: [Python, HTML, CSS],
   hobbies: {
                         photography: "https://instagram.com/gadoabauto",
                         reading: "https://www.goodreads.com/user/show/158218676-herbus",
                         coding: "https://github.com/herbusdev/"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on learning more Python.",
- day: "As of day 22.03.2023 I'm starting the challenge. Current day: 0."
-}
+ projects: "Currently I'm working on discord bot, created with discord.py api wrapper, called 'Hayate'. You can check it out on my profile!"
 ```
-  
-<p>Like what I do and wanted to support me? Consider buying me a cup of tea! <img src="https://i.imgur.com/fMhXjLT.png" width="20"></p>
-<a href="https://www.buymeacoffee.com/herbus" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
