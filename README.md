@@ -1,1 +1,7 @@
-<img src="https://i.imgur.com/wAVf1q1.png" height="45">
+```py
+herbchan = {
+  'nickname': 'herbchan',
+  'hobbies': ['coding', 'photography', 'reading', 'gaming'],
+  'links': 'https://linktr.ee/herbchan'
+}
+```
