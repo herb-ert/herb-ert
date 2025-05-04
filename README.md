@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### I'm a self-taught Front-End Developer from Poland
+#### I'm a self-taught Full-Stack Developer from Poland
 
 - ⚙️ I use daily: `.js`, `.jsx`, `.html`, `.css`, `.json`, `.sql`
 - 🧠 Passionate about building clean, functional UIs and structured backends
